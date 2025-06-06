@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo João Vitor Costa da Silva, tenho 22 anos e sou natural de Pernambuco. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet na UNIASSELVI.
+Estudante de Sistemas para Internet na UNIASSELVI. Atualmente estudo HTML, CSS e JavaScript. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
 ### 🌐 Linguagens e Tecnologias
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
